@@ -1,0 +1,5 @@
+# ID|TYPE|TEXT (опционально)
+237459774|developer|Один из разработчиков BypassGram
+7308887716|supporter|Этот человек поддержал разработку BypassGram
+4434974539|official|Этот ресурс официально принадлежит BypassGram
+4434271647|official|Этот ресурс официально принадлежит BypassGram
